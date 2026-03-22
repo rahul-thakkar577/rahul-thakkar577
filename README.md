@@ -1,17 +1,49 @@
-# Hi, I'm Rahul 👋
+# Hi, I'm Rahul Thakkar 👋
 
-🎓 MCA Student | 🚀 Aspiring DevOps Engineer  
-📚 Currently doing #90DaysOfDevOps  
+🚀 Aspiring DevOps Engineer  
+🎓 MCA Student at Parul University  
 
-## 🔧 Skills
-- Linux, Git, Bash
-- Docker (Learning)
-- Python (Basics)
+---
 
-## 🚀 Projects
-- 90 Days of DevOps
-- Shell Scripts
-- DevOps Notes
+## 🧑‍💻 About Me
 
-## 📫 Connect
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
+I am currently pursuing MCA with a strong foundation in IT (BCA graduate).  
+I am focused on DevOps and Cloud technologies and passionate about automation, system reliability, and scalable solutions.
+
+---
+
+## 🔥 What I'm Currently Working On
+
+- 🚀 #90DaysOfDevOps Challenge  
+- 🐧 Linux & Shell Scripting  
+- ☁️ AWS & Cloud Basics  
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Operating Systems:** Linux
+- **Networking:** Fundamentals of Networking
+- **Programming:** Python   
+- **Version Control:** Git, GitHub  
+- **Scripting:** Bash
+- **Containerization:** Docker   
+- **Cloud:** AWS (Learning)  
+- **DevOps:** CI/CD (Learning)  
+
+---
+
+## 📂 Featured Projects
+
+- 🔹 90 Days of DevOps  
+- 🔹 Shell Scripts Collection  
+- 🔹 DevOps Notes
+- 🔹 git-commands-cheatsheet
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/rahul-thakkar-b4a145231/ 
+- rahulthakkar1009@gmail.com
+---
