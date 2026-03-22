@@ -45,5 +45,5 @@ I am focused on DevOps and Cloud technologies and passionate about automation, s
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/rahul-thakkar-b4a145231/ 
-- rahulthakkar1009@gmail.com
+- Email: rahulthakkar1009@gmail.com
 ---
