@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Rahul 👋
 
-<!--
-**rahul-thakkar577/rahul-thakkar577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 🚀 Aspiring DevOps Engineer  
+📚 Currently doing #90DaysOfDevOps  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Linux, Git, Bash
+- Docker (Learning)
+- Python (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 90 Days of DevOps
+- Shell Scripts
+- DevOps Notes
+
+## 📫 Connect
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
