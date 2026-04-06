@@ -46,4 +46,5 @@ I am focused on DevOps and Cloud technologies and passionate about automation, s
 
 - LinkedIn: https://www.linkedin.com/in/rahul-thakkar-b4a145231/ 
 - Email: rahulthakkar1009@gmail.com
+- Portfolio: https://rahul-thakkar-portfolio.netlify.app/
 ---
