@@ -16,7 +16,6 @@ I am focused on DevOps and Cloud technologies and passionate about automation, s
 
 - 🚀 #90DaysOfDevOps Challenge  
 - 🐍 Python and Agentic-Ai for Devops
--   
 - ☁️ AWS & Cloud Basics  
 
 ---
@@ -38,6 +37,9 @@ I am focused on DevOps and Cloud technologies and passionate about automation, s
 
 ## 📂 Featured Projects
 
+- 🔹 Ai-Bank-app
+- 🔹 Edu-portal (End to End Deployment With DevSecOpa Pipeline)
+- 🔹 Expense-tracker-app 
 - 🔹 90 Days of DevOps  
 - 🔹 Shell Scripts Collection  
 - 🔹 DevOps Notes
